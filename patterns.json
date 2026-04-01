@@ -1,0 +1,29 @@
+{
+  "patterns": [
+    {
+      "name": "hammer",
+      "folder": "hammer",
+      "type": "bullish_reversal"
+    },
+    {
+      "name": "bullish_engulfing",
+      "folder": "bullish_engulfing",
+      "type": "bullish_reversal"
+    },
+    {
+      "name": "morning_star",
+      "folder": "morning_star",
+      "type": "bullish_reversal"
+    },
+    {
+      "name": "piercing_line",
+      "folder": "piercing_line",
+      "type": "bullish_reversal"
+    },
+    {
+      "name": "three_white_soldiers",
+      "folder": "three_white_soldiers",
+      "type": "bullish_continuation"
+    }
+  ]
+}
